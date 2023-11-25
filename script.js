@@ -8,4 +8,3 @@ function daysofAYear(y)
 	else
 		 return '365';
 }
-}
